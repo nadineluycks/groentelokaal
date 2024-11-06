@@ -24,6 +24,7 @@ main p {
 }
 
 h2{
+
     text-align: center;
 }
 
@@ -69,4 +70,8 @@ strong {
 .recepten {
     width: 60%;
     margin: auto;
+}
+.werkwijze {
+    color:rgb(043, 103, 056);
+   
 }
